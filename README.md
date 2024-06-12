@@ -1,6 +1,6 @@
 # 📚 BookMania-MERN Stack Project
 
-Welcome to **BookMania**, an online bookstore application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to browse, search, and purchase books online, providing a seamless and engaging shopping experience.
+Welcome to **BookMania**, an online bookstore application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to browse, and search books online, providing a seamless and engaging experience.
 
 ## Technologies Used
 
